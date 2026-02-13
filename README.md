@@ -1,8 +1,5 @@
 # Write_At_Your_Own_Risk
 if you stop writing you lose your work. :)
-# Write At Your Own Risk ✍️🔥
-
-
 
 ## The Challenge
 The rules are simple but brutal:
